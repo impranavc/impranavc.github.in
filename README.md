@@ -1,2 +1,2 @@
-# impranavc.github.in
+# impranavc.github.io
 portfolio website
